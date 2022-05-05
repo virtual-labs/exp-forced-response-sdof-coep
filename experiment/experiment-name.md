@@ -1,1 +1,1 @@
-## Experiment name
+## Forced response of SDOF

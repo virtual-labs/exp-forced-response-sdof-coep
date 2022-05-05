@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Calculate damped natural frequency, if a spring mass damper system is subjected to periodic disturbing force of 30 N. Damping coefficient is equal to 0.76 times of critical damping coefficient and undamped natural frequency is  5 rad/sec",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "3.99 rad/sec",
+        "b": "2.13 rad/sec",
+        "c": "4.12 rad/sec",
+        "d": "3.24 rad/sec"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Calculate critical speed of a vehicle which moves on a road having sinusoidal profile of wavelength 2.5 m. The mass of the vehicle is 300 kg and natural frequency of its spring suspension system is 8 rad/sec",
+      "answers": {
+        "a": "4.15 m/sec",
+        "b": "3.18 m/sec",
+        "c": "2.36 m/sec",
+        "d": "None of the above "
       },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the effect of damping on phase angle at resonance frequency?",
+      "answers": {
+        "a": "Phase angle increases as damping increases",
+        "b": "Phase angle increases as damping decreases",
+        "c": "Damping has no effect on phase angle",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When frequency ratio (&omega;/&omega;n) is greater than unity, phase angle decreases as ______",
+      "answers": {
+        "a": "Damping factor increases",
+        "b": "damping factor decreases",
+        "c": "both a. and b.",
+        "d": "none of the above"
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "At which frequency ratio, phase angle increases as damping factor increases?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "When frequency ratio is zero",
+        "b": "All of these",
+        "c": "When frequency ratio is more than unity",
+        "d": "When frequency ratio is less than unity"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
