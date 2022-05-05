@@ -1,0 +1,53 @@
+{
+  "version": 2.0,
+  "questions": [
+   {
+      "question": "Magnification factor is the ratio of ______",
+      "answers": {
+        "a": "zero frequency deflection and amplitude of steady state vibrations",
+        "b": "amplitude of steady state vibrations and zero frequency deflection",
+        "c": "amplitude of unsteady state vibrations and zero frequency distribution",
+        "d": "none of the above"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is meant by phase difference or phase angle in forced vibrations?",
+      "answers": {
+        "a": "Difference between displacement vector (x<sub>p</sub>) and velocity vector V<sub>p</sub>",
+        "b": "Angle in which displacement vector leads force vector by (F<sub>0</sub> sin&omega;t)",
+        "c": "Angle in which displacement vector (x<sub>p</sub>) lags force vector (F<sub>0</sub> sin&omega;t)",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The equation m(d<sup>2</sup>x/ dt<sup>2</sup>) + c (dx/dt) + Kx = F<sub>0</sub> sin &omega;t is a second order differential equation. The solution of this linear equation is given as",
+      "answers": {
+        "a": "sum of complementary and particular function",
+        "b": "difference of complementary and particular function",
+        "c": "particular function",
+        "d": "Complementary function"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following statements is/are true? <br>1. Magnification factor is minimum at resonance <br>2.The maximum value of amplification factor increases as damping factor decreases <br>3.The maximum value of amplification factor increases as damping factor increases <br>4.Magnification factor is maximum at resonance",
+      "answers": {
+        "a": "Statement 1 and statement 2",
+        "b": " Statements 1, 2 and 3",
+        "c": "All the above statements are true",
+        "d": "Statement 2 and statement 4"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
